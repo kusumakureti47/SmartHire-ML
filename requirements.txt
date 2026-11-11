@@ -3,4 +3,4 @@ pandas
 pypdf
 python-docx
 scikit-learn
-joblibgit 
+joblib
